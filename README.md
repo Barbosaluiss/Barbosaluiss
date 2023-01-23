@@ -22,4 +22,4 @@
 </div>
 
 <hr/>
-<h3>Study and Practice!!!</h3> 🚀
+<h3>Study and Practice!!! 💪</h3> 
