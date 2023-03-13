@@ -1,7 +1,7 @@
 ### Hi there, i am Luis! 💻
 
 <br/>
-- Full Stack Web Developer
+- Web Developer
 
 <br/>
 <hr/>
